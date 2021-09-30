@@ -1,0 +1,1 @@
+print(max(map(int,input("Enter three numbers: ").split())))
